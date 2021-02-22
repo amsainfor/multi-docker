@@ -22,3 +22,5 @@ after_success:
   - docker push amsainfor/multi-nginx
   - docker push amsainfor/multi-server
   - docker push amsainfor/multi-worker
+
+  
